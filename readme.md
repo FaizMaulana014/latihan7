@@ -23,7 +23,7 @@ if (bil1 < bil2):
    print("Bilangan terbesar :",bil2)
 ```
 ### Maka Outputnya
-![Alt text](image.png)
+![Alt text](gambar/image.png)
 
 ## Latihan 2
 _Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 variable input atau lebih), kemudian tampilkan hasilnya secara berurutan mulai dari data terkecil._
